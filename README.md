@@ -1,0 +1,2 @@
+# Akinator
+ Jogo de adivinha
